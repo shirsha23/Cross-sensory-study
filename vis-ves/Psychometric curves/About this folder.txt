@@ -1,0 +1,7 @@
+After running 'MAIN', this folder will contain all the participants' psychometric curves in 3 formats:
+
+1) matlab figure
+2) PDF file
+3) tiff file
+
+the name of the psychometric file is identical to the name of the raw data file.

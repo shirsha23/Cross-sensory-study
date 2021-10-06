@@ -1,0 +1,10 @@
+This folder is in use only in case you turned on the flag that refers to prior 3 choices as average, 
+instead of mode (default is mode).
+
+After running 'MAIN' and turning on the abovementioned flag, this folder will contain two results files of the 
+model fitting:
+
+1) ModelResults_avg3priors+RMS - model M3 (in which 3 prior stimuli are averaged) results for each participant. 
+   This includes all four beta coefficients and AIC and BIC for each model.
+1) ModelResults_3priors+RMS - model M3E (in which 3 prior stimuli are separated) results for each participant. 
+   This includes all six beta coefficients and AIC and BIC for each model.

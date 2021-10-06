@@ -1,0 +1,16 @@
+After running 'MAIN', this folder will contain a 'Results' file for this condition.
+
+'Results' file includes all the data of the participants that performed this condition:
+
+- AnaData: data after fitting psychometric functions. Includes thresholds, biases, amount of trials etc.
+- dataRec: for each participant there is one data record that includes:
+		- trialCount: number of trial (from 1 to the amount of trials performed)
+		- stimType: stimulus type of each trial (1-ves, 2-vis)
+		- coherence: visual coherence level on each trial (always 100%)
+		- dir: heading direction for each trial
+		- response: participant's response on each trial (1-left, 2-right)
+		- isTestTrial: a flag that indicates whether a trial is a test trial (1) or a prior trial (0)
+- sess_* and subj_*: information regarding the participants and their performed sessions. 
+		For example: 
+		- sess_AGE includes the age of each participant
+		- subj_ID includes the ID of the participant
