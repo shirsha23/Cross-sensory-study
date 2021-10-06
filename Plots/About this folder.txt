@@ -1,0 +1,6 @@
+After running 'MAIN', this folder will contain the following plots:
+
+1) Summarized PSE difference (figure 3B)
+2) M3 results summary (figure 4) - for every subplot in figure 4 a different plot is produced here
+3) AIC Bayesian model comparisons (figure 5)
+4) BIC Bayesian model comparisons (supplementary figure 1)

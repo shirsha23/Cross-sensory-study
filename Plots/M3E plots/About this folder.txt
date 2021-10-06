@@ -1,0 +1,3 @@
+After running 'MAIN', this folder will contain the following plots:
+
+1) M3E results summary (figure 6) - for every subplot in figure 6 a different plot is produced here

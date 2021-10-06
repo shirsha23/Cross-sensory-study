@@ -1,0 +1,7 @@
+After running 'SIMULATION' for this condition (by default simulation is running for vis-vis), 
+this folder will contain:
+
+1) Simulated data in regular order and in reverse order (when betas for prior_stimulus1 and prior_stimulus3
+   are switched.
+2) Recovered beta coefficients for when simulated in regular order and for when simulated in reverse order.
+3) Plots (supplementary figures 2 and 3) - for each subplot in these figures a different plot is produced here.
